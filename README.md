@@ -10,6 +10,8 @@
 
 # 글쓰기
 
+2024-12-09 [반응형과 함수형과 논리식](writing/reactive%20functional%20and%20logical%20expressions.md)
+
 2024-11-20 [쏘카프레임 앱 프레임워크와 개발자 경험](<writing/socarframe app framework and developer experience.md>)
 
 2024-05-07 [리더십](https://docs.google.com/document/d/1JHnjd1kkykSuYL6eZmZGoCpBUfDVNpHhyPPZdDIrILM/edit?usp=sharing): 업무관, 팀의 규범과 문화, 대인 평가와 채용 등에 대한 생각을 모았습니다.
@@ -22,3 +24,6 @@
 
 2021-07-30 [팀장을 하면서 추구하고 있는 바에 대해](writing/things%20i%20pursue%20as%20a%20team%20leader.md)
 
+2015-09-04 [프로그래밍을 배우는 게 유행인 요즘 드는 생각](writing/my%20thoughts%20these%20days%20when%20learning%20programming%20is%20trendy.md)
+
+2010-08-03 [속도 경쟁에서 간결한 외관의 작용](writing/the%20power%20of%20a%20simple%20appearance%20in%20a%20speed%20race.md)
