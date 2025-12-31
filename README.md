@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **socar-aron/socar-aron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 소개
+
+2025년 12월 기준, 16년차 개발자입니다. 모바일 게임 3년차, 모바일 메신저 6년차, 카셰어링 서비스 8년차의 개발 경험이 있습니다. 바람직한 체계를 구축하고 그로부터 다수의 행복에 기여할 수 있는 선순환을 만드는 것을 추구합니다.
+
+# 글쓰기
+
+[리더십](https://docs.google.com/document/d/1JHnjd1kkykSuYL6eZmZGoCpBUfDVNpHhyPPZdDIrILM/edit?usp=sharing): 업무관, 팀의 규범과 문화, 대인 평가와 채용 등에 대한 생각을 모았습니다.
