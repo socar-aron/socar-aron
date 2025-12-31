@@ -10,4 +10,15 @@
 
 # 글쓰기
 
-[리더십](https://docs.google.com/document/d/1JHnjd1kkykSuYL6eZmZGoCpBUfDVNpHhyPPZdDIrILM/edit?usp=sharing): 업무관, 팀의 규범과 문화, 대인 평가와 채용 등에 대한 생각을 모았습니다.
+2024-11-20 [쏘카프레임 앱 프레임워크와 개발자 경험](<writing/socarframe app framework and developer experience.md>)
+
+2024-05-07 [리더십](https://docs.google.com/document/d/1JHnjd1kkykSuYL6eZmZGoCpBUfDVNpHhyPPZdDIrILM/edit?usp=sharing): 업무관, 팀의 규범과 문화, 대인 평가와 채용 등에 대한 생각을 모았습니다.
+
+2024-03-27 [앱 개발 공통 지침의 의의](writing/the%20significance%20of%20common%20guidelines%20for%20app%20development.md)
+
+2024-01-05 [코드 컨벤션은 어떤 것이어야 하는가](writing/code%20convention.md)
+
+2022-12-15 [UI의 플랫폼 종속성](writing/platform%20dependency%20of%20ui.md)
+
+2021-07-30 [팀장을 하면서 추구하고 있는 바에 대해](writing/things%20i%20pursue%20as%20a%20team%20leader.md)
+
