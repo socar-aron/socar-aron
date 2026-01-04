@@ -14,7 +14,7 @@ Kotlin, JAVA, Swift, Objective-C, C++, C#, Android, iOS, Cocos2d-x, Windows Form
 
 ## 관심 분야
 
-글쓰기, 과학, 물리학, 천체물리학, 인지과학, UI/UX, 사회심리학, 미래학, 역사, 국제 정치, 경제
+글쓰기, 과학, 물리학, 천체물리학, 인지과학, UI/UX, 사회심리학, 역사, 국제 정치, 경제, SF, 미래학
 
 ## 글쓰기
 
